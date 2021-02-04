@@ -1,0 +1,170 @@
+body {
+    background-color: #269599ab;
+    color: rgb(0, 0, 0);
+    font-family: 'Permanent Marker', 'Langar', 'Audiowide', 'cursive', ;
+    /* background-color: #269599; */
+}
+
+.logo {
+  border-radius: 100%;
+}
+
+h2 {
+  margin-top: 70px;
+  margin-left: 10px;
+  font-weight: 900;
+}
+
+#cars {
+  width: 70%;
+}
+
+p {
+  font-size: large;
+}
+
+/* Car no 1 */
+
+.car1heading {
+  margin-bottom: 40px;
+}
+
+.car1 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+p {
+  margin-left: 10px;
+}
+
+/* Car no 2 */
+
+.car2heading {
+  margin-bottom: 40px;
+}
+
+.car2 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+/* Car no 3 */
+
+.car3 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Car No 4 */
+
+.car4 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Car No 5 */
+
+.car5 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Car No 6 */
+
+.car6 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Cae No 7 */
+
+.car7 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Car No 8*/
+
+.car8 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Car No 9 */
+
+.car9 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Car No 10 */
+
+.car10 {
+  height: 40%;
+  width: 40%;
+  margin-left: 10px;
+  border-radius: 25%;
+  margin-bottom: 20px;
+  margin-top: 40px;
+  cursor: pointer;
+}
+
+/* Button Section */
+
+.buy {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 25%;
+}
+
+.write {
+   margin-bottom: 20px;
+}
+
+.read {
+  border-radius: 25%;
+}
